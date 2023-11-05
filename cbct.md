@@ -35,5 +35,5 @@
     4. Any other pathology
 
 ## Sources
-[CBCT Reading Template Phrases]([url](https://asset.cdocs.com/downloads/21005.pdf)https://asset.cdocs.com/downloads/21005.pdf)
-[Guidelines for Reporting on CBCT Scans]([url](https://britishendodonticsociety.org.uk/_userfiles/pages/files/patelharveyiej2021.pdf)https://britishendodonticsociety.org.uk/_userfiles/pages/files/patelharveyiej2021.pdf)
+- [CBCT Reading Template Phrases](https://asset.cdocs.com/downloads/21005.pdf)
+- [Guidelines for Reporting on CBCT Scans](https://britishendodonticsociety.org.uk/_userfiles/pages/files/patelharveyiej2021.pdf)
