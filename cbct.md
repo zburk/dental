@@ -24,7 +24,8 @@
 2. Radiographically, the dentition is grossly normal with no significant tooth fractures, wear, caries, periodontal bone loss, malposition, or impaction. (add in what is present)
 3. Teeth #___, ___ are impacted
 4. Teeth #__, ___, ___ are present. All remaining are missing.
-5. All teeth are present except teeth #___,___,___.
+5. Teeth # ___, ___, ____ are replaced by implants. Bone levels are good/bad.
+6. All teeth are present except teeth #___,___,___.
 ### Notes
 - If any teeth are not completely visible in the scan, say "unable to confidently report on tooth # as only ____ of the tooth is visible"
 - Identify any missing restorations
